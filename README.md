@@ -21,7 +21,6 @@
 
 ## 📃 Latest Articles
 
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 <img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
