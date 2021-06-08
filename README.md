@@ -31,7 +31,7 @@
 - [Exploratory Data Analysis for Auto MPG Dataset](https://insancs.medium.com/exploratory-data-analysis-for-auto-mpg-dataset-f9ce86a52b1a)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔍 You Can Find Me at
+## 🔍 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif", width="30px">
 
 <p>
   <a href="https://www.linkedin.com/in/insan-cahya-setia-621623140/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
