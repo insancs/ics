@@ -3,7 +3,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Insan 🧑🏻
 
 <p align="justify">
-  I am a student with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+  A fresh graduate with a degree in Computer Science. During the past year, I have been passionate about data, especially data analysis, data visualization and business analysis. I have a high interest in data visualization and data wrangling. I'm passionate about data and very interested in data analysis, modeling, and visualization. Hard working, great curiosity, strong analysis and love to work and exchange ideas in teamwork. Opening opportunities to become Data Scientist, Data Analyst, Business Analyst or other relevant job.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
