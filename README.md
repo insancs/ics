@@ -8,7 +8,7 @@
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg) -->
 
 <img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/languages.svg">
 
