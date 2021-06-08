@@ -1,73 +1,45 @@
-# GitHub Stats Visualizations : Transparent
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+<img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/overview.svg">
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arist 🧑🏻
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<p align="justify">
+  I am a student with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+</p>
 
-</a>
+<!-- ## 👁‍🗨 Visitors Count -->
 
-> NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
+![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
 
-## ⚠️ Disclaimer
+<img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/languages.svg">
 
-The project uses access token that has read access to private repositories and if there is any
-exception while reading data from any repository it throws Exception which is printed in the workflow logs. 
-This exception will be viewable in the Actions tab of the repository fork, and
-anyone may be able to see the name of one or more private repositories.
+ ## ⭐ Popular Repositories
 
-## ⚙️ Installation
+| 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
+|:--------|:--------------------|
+| ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Searching Program](https://github.com/myarist/Searching-Program) | 
+| 📝  Article | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
 
-<!-- TODO: Add details and screenshots -->
+## 📃 Latest Articles
 
-1. Create a personal access token (not the default GitHub Actions token) using
-   the instructions
-   [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
-   Personal access token must have permissions: `read:user` and `repo`. Copy
-   the access token when it is generated – if you lose it, you will have to
-   regenerate the token.
+<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
-2. Click [here](https://github.com/rahul-jha98/github-stats-transparent/fork) to create a
-   fork of this repository
+<!-- BLOG-POST-LIST:START -->
+- [Analisis Data Eksploratif : Cara Pemulusan Data Time Series dengan Excel](https://www.belajarstatistics.com/blog/2021/06/08/cara-pemulusan-data-time-series-dengan-excel/)
+- [Analisis Data Eksploratif : Teknik Pemulusan Data Time Series](https://www.belajarstatistics.com/blog/2021/06/07/teknik-pemulusan-data-time-series/)
+- [Analisis Data Eksploratif : Pengertian Pemulusan Data Time Series](https://www.belajarstatistics.com/blog/2021/06/06/pengertian-pemulusan-data-time-series/)
+- [Analisis data Eksploratif : Contoh Soal Standardisasi Data](https://www.belajarstatistics.com/blog/2021/06/05/contoh-soal-standardisasi-data/)
+- [Analisis data Eksploratif : Perbandingan Nilai Pengamatan Dengan Z Score](https://www.belajarstatistics.com/blog/2021/06/04/perbandingan-nilai-pengamatan-dengan-z-score/)
+<!-- BLOG-POST-LIST:END -->
 
-3. If this is the README of your fork, click [this
-   link](../../settings/secrets/actions) to go to the "Secrets" page.
-   Otherwise, go to the "Settings" tab of the newly-created repository and go
-   to the "Secrets" page (bottom left).
-   
-   ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Actions.png)
-   
-4. Create a new secret with the name `ACCESS_TOKEN` and paste the copied
-   personal access token as the value.
+## 🔍 You Can Find Me at
 
-   <img src='https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Token.png' height='250px'/>
-
-5. If you want to ignore certain repos, add them (separated by commas) to a new
-   secret—created as before—called `EXCLUDED`. 
-
-   <img src='https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Exclude.png' height='250px'/>
-
-6. If you want to ignore certain languages, add them (separated by commas) to a new secret called 
-   `EXCLUDED_LANGS`.
-
-7. By default the languages, stars, forks and repository views do not consider stats from 
-   public repositories that you have forked and contributed to. But if you want to count stats from
-   forked repositories also you can do so by creating a new secret called `COUNT_STATS_FROM_FORKS`. 
-   For the value you can put any random value because the action only checks if the secret is set or not.
-
-   <img src='https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Forks.png' height='250px'/>
-
-8. Go to the [Actions Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run
-   Workflow" on the right side of the screen to generate images for the first
-   time. The images will be periodically generated every hour, but they can be
-   manually regenerated by manually running the workflow.
-
-9. Check out the images that have been created in the [`generated`](../output/generated)
-   folder in `output` branch.
-
-10. Link back to this repository so that others can generate their own
-   statistics images.
-
-11. Star this repo if you like it!
+<p>
+  <a href="https://www.linkedin.com/in/myarist" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://medium.com/@myarist" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
+  <a href="https://www.kaggle.com/myarist" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
+  <a href="mailto:aristyanto2320@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://www.facebook.com/myarist" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/my_arist" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+<!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
+  <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
+</p>
