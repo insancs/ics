@@ -1,6 +1,6 @@
 <img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/overview.svg">
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Insan 👦🏻
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Insan 👦🏻
 
 <p align="justify">
   A fresh graduate with a degree in Computer Science. During the past year, I have been passionate about data, especially data analysis, data visualization and business analysis. I have a high interest in data visualization and data wrangling. I'm passionate about data and very interested in data analysis, modeling, and visualization. Hard working, great curiosity, strong analysis and love to work and exchange ideas in teamwork.
