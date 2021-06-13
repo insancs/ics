@@ -30,7 +30,6 @@
 - [Exploratory Data Analysis for Auto MPG Dataset](https://insancs.medium.com/exploratory-data-analysis-for-auto-mpg-dataset-f9ce86a52b1a)
 <!-- BLOG-POST-LIST:END -->
 
-<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
 
 ## 🔍 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="90px">
 
@@ -44,3 +43,5 @@
 <!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>
+
+<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
