@@ -22,8 +22,6 @@
 
 ## 📃 Latest Articles
 
-<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
-
 <!-- BLOG-POST-LIST:START -->
 - [Analyzing The Effect of Weather on Policing Activity](https://insancs.medium.com/analyzing-the-effect-of-weather-on-policing-activity-e75111d08923)
 - [Policing Activity Analysis for Traffic Stop in Rhode Island](https://insancs.medium.com/policing-activity-analysis-for-traffic-stop-in-rhode-island-9a388ac61129)
@@ -31,6 +29,8 @@
 - [Exploratory Data Analysis for Young People Survey](https://insancs.medium.com/exploratory-data-analysis-for-young-people-survey-330898a117fd)
 - [Exploratory Data Analysis for Auto MPG Dataset](https://insancs.medium.com/exploratory-data-analysis-for-auto-mpg-dataset-f9ce86a52b1a)
 <!-- BLOG-POST-LIST:END -->
+
+<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
 
 ## 🔍 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="90px">
 
