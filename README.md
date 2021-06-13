@@ -12,8 +12,6 @@
 
 <img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/languages.svg">
 
-<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
-
  <!-- ## ⭐ Popular Repositories
 
 | 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
@@ -34,6 +32,7 @@
 
 
 ## 🔍 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="90px">
+<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="150px">
 
 <p>
   <a href="https://www.linkedin.com/in/insan-cahya-setia-621623140/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
