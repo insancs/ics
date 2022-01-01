@@ -1,6 +1,6 @@
 <img align='right' src = "https://github.com/insancs/github-stats-transparent/blob/output/generated/overview.svg">
 
-# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Insan 👦🏻
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Insan 👦
 
 <p align="justify">
  A fresh graduate with a degree in Computer Science. Have an interest and ability in the field of data science, data analytics, and business analysis. Passionate about machine learning development and data visualization. Hard working, great curiosity, strong analysis and love to work and exchange ideas in teamwork.
