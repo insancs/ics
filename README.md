@@ -27,11 +27,12 @@
 ## 📃 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Support Vector Machine : SVM Implementation using Python](https://insancs.medium.com/support-vector-machine-svm-implementation-using-python-4442e9a5babc)
+- [Dimensionality Reduction : Principal Component Analysis Implementation using Python
+](https://insancs.medium.com/dimensionality-reduction-principal-component-analysis-implementation-using-python-234c9867a7bd)
+- [Mari Mengenal Python, Bahasa Pemrograman Populer untuk Data Science](https://insancs.medium.com/mari-mengenal-python-bahasa-pemrograman-populer-untuk-data-science-c647f435ba78)
+- [Generasi GIGIH by YABB with Gojek — Beginner Phase](https://insancs.medium.com/generasi-gigih-by-yabb-with-gojek-beginner-phase-7fad68325403)
 - [Analyzing The Effect of Weather on Policing Activity](https://insancs.medium.com/analyzing-the-effect-of-weather-on-policing-activity-e75111d08923)
-- [Policing Activity Analysis for Traffic Stop in Rhode Island](https://insancs.medium.com/policing-activity-analysis-for-traffic-stop-in-rhode-island-9a388ac61129)
-- [Data Manipulation for Sales Analysis Using Pandas](https://insancs.medium.com/data-manipulation-for-sales-analysis-using-pandas-51049bac6bb8)
-- [Exploratory Data Analysis for Young People Survey](https://insancs.medium.com/exploratory-data-analysis-for-young-people-survey-330898a117fd)
-- [Exploratory Data Analysis for Auto MPG Dataset](https://insancs.medium.com/exploratory-data-analysis-for-auto-mpg-dataset-f9ce86a52b1a)
 <!-- BLOG-POST-LIST:END -->
 
 
